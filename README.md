@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lalith, a Full-Stack .NET Developer from India. I love building fun and useful apps with .NET & Azure.
+I'm Lalith, a Full-Stack .NET Developer from India. I love building fun and useful apps with .NET.
 
 ---
 
